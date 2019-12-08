@@ -1,0 +1,19 @@
+{
+  "name": "@usirin/umut-co",
+  "version": "0.0.0",
+  "description": "Website module for umut.co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/usirin/umut-co.git"
+  },
+  "author": "Umut Sirin <umutsirin1@gmail.com> (https://umut.co/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usirin/umut-co/issues"
+  },
+  "homepage": "https://github.com/usirin/umut-co#readme"
+}
